@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[clh:home|Door43 (clh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-clh|d43-clh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-clh/archive/master.zip|d43-clh.zip]]
+
+**Recent Changes**
+{{changes>ns = clh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/clh|Ethnologue data]]
+
